@@ -1,0 +1,14 @@
+.arctxt {
+    display: relative;
+    width:fit-content;
+    height:auto;
+}
+
+.arctxt > span {
+    font-size: xx-large;
+    text-align: center;
+    position: absolute;
+    margin-top: 50px;
+    margin: auto;
+    border: 2px solid black;    
+}
