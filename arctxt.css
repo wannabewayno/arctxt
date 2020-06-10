@@ -1,6 +1,6 @@
 .arctxt {
     display: relative;
-    width:fit-content;
+    width:100%;
     height:auto;
 }
 
@@ -10,5 +10,14 @@
 }
 
 .custom {
-    font-size: xx-large; 
+    font-family: 'Metal Mania', cursive;
+    font-size: 8px; 
 }
+
+/* .fontsize {
+    font-size: 25px;
+    background-color: gainsboro;
+    margin: 0;
+    padding: 0;
+    width: fit-content;
+} */
