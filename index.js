@@ -4,7 +4,7 @@ window.onload = () => {
 
 const arctxt = () => {
     // this function will look for .arctxt classes and create a html collection
-    const arctxtCollection = document.getElementsByClassName('arctxt');
+    const arctxtCollection = document.getElementsByTagName('arctxt');
 
     // we create an array of arctxt elements from the html collection 
     const arctxtElements = Array.from(arctxtCollection);
