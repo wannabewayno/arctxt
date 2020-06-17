@@ -1,0 +1,33 @@
+{
+  "name": "arctxt",
+  "version": "1.0.0",
+  "description": "creates circular text in the browser",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wannabewayno/arctxt.git"
+  },
+  "keywords": [
+    "text",
+    "javascript",
+    "circle",
+    "circular",
+    "arch",
+    "arc",
+    "arc-text",
+    "arch-text",
+    "typography"
+  ],
+  "author": "wayne griffiths",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wannabewayno/arctxt/issues"
+  },
+  "homepage": "https://github.com/wannabewayno/arctxt#readme"
+}
