@@ -28,7 +28,7 @@ Make circular text by using the arctxt element
 ```<arctxt>text goes here</arctxt>```
 
 Here's the most basic example
-![https://github.com/wannabewayno/arctxt/readme-images/basic-example.png](https://github.com/wannabewayno/arctxt/readme-images/basic-example.png)
+![basic example](https://github.com/wannabewayno/arctxt/readme-images/basic-example.PNG)
 
 Here's what that looks like
 
